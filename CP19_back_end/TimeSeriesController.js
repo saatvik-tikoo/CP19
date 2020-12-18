@@ -3,7 +3,7 @@ module.exports = function (app, rdb, jsonParser, urlencodedParser, cors, MongoCl
     app.use(jsonParser);
     app.use(urlencodedParser);
 
-    var url = "mongodb+srv://dbUser:16RFespRjWMqmVuQ@cluster0.f5cdp.mongodb.net/test?authSource=admin&replicaSet=atlas-12rpma-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true";
+    var url = "";
 
     // Run every 4 hours
     setInterval(function(){

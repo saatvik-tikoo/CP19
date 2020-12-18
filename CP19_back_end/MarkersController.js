@@ -23,7 +23,7 @@ module.exports = function (app, db, jsonParser, urlencodedParser, cors, request)
 					uri: markerUrl,
 					headers: {
 						"x-rapidapi-host": "covid-19-statistics.p.rapidapi.com",
-						"x-rapidapi-key": "dc293376fbmsh4984bf3af662a63p1ddfb9jsne7ab12c44d4a"
+						"x-rapidapi-key": ""
 					}
 				})
 					.then((json) => {
