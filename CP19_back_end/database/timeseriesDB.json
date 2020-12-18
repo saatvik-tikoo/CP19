@@ -1,0 +1,199 @@
+[{
+  "_id": 1,
+  "user_id": 101,
+  "start_date": {
+    "$date": "2020-12-01T10:00:00Z"
+  },
+  "end_date": {
+    "$date": "2020-12-01T11:59:59Z"
+  },
+  "measurements": [
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:00:00Z"
+      },
+      "Latitude": 34.021339,
+      "Longitude": -118.286827
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:01:00Z"
+      },
+      "Latitude": 34.021125,
+      "Longitude": -118.289488
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:42:00Z"
+      },
+      "Latitude": 34.021125,
+      "Longitude": -118.283565
+    }
+  ],
+  "transaction_count": 3
+},{
+  "_id": 2,
+  "user_id": 102,
+  "start_date": {
+    "$date": "2020-12-01T10:00:00Z"
+  },
+  "end_date": {
+    "$date": "2020-12-01T11:59:59Z"
+  },
+  "measurements": [
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:00:00Z"
+      },
+      "Latitude": 34.024113,
+      "Longitude": -118.289917
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:01:00Z"
+      },
+      "Latitude": 34.026034,
+      "Longitude": -118.292492
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:42:00Z"
+      },
+      "Latitude": 34.022406,
+      "Longitude": -118.294981
+    }
+  ],
+  "transaction_count": 3
+},{
+  "_id": 3,
+  "user_id": 103,
+  "start_date": {
+    "$date": "2020-12-01T10:00:00Z"
+  },
+  "end_date": {
+    "$date": "2020-12-01T11:59:59Z"
+  },
+  "measurements": [
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:00:00Z"
+      },
+      "Latitude": 34.024753,
+      "Longitude": -118.293436
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:01:00Z"
+      },
+      "Latitude": 34.021267,
+      "Longitude": -118.293436
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:42:00Z"
+      },
+      "Latitude": 34.018208,
+      "Longitude": -118.282535
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:54:00Z"
+      },
+      "Latitude": 34.015458,
+      "Longitude": -118.291075
+    }
+  ],
+  "transaction_count": 4
+},{
+  "_id": 4,
+  "user_id": 104,
+  "start_date": {
+    "$date": "2020-12-01T10:00:00Z"
+  },
+  "end_date": {
+    "$date": "2020-12-01T11:59:59Z"
+  },
+  "measurements": [
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:00:00Z"
+      },
+      "Latitude": 34.011438,
+      "Longitude": -118.284552
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:01:00Z"
+      },
+      "Latitude": 34.013999,
+      "Longitude": -118.296611
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:42:00Z"
+      },
+      "Latitude": 34.012078,
+      "Longitude": -118.282235
+    }
+  ],
+  "transaction_count": 3
+},{
+  "_id": 5,
+  "user_id": 105,
+  "start_date": {
+    "$date": "2020-12-01T10:00:00Z"
+  },
+  "end_date": {
+    "$date": "2020-12-01T11:59:59Z"
+  },
+  "measurements": [
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:00:00Z"
+      },
+      "Latitude": 34.010051,
+      "Longitude": -118.293908
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:01:00Z"
+      },
+      "Latitude": 34.00941,
+      "Longitude": -118.279832
+    }
+  ],
+  "transaction_count": 2
+},{
+  "_id": 6,
+  "user_id": 106,
+  "start_date": {
+    "$date": "2020-12-01T10:00:00Z"
+  },
+  "end_date": {
+    "$date": "2020-12-01T11:59:59Z"
+  },
+  "measurements": [
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:05:00Z"
+      },
+      "Latitude": 34.014319,
+      "Longitude": -118.282321
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:14:00Z"
+      },
+      "Latitude": 34.021896,
+      "Longitude": -118.280947
+    },
+    {
+      "timestamp": {
+        "$date": "2020-12-01T10:34:00Z"
+      },
+      "Latitude": 34.012256,
+      "Longitude": -118.283994
+    }
+  ],
+  "transaction_count": 3
+}]

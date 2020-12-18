@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CP19</string>
+    <string name="location_permission_denied">User denied permission for device location.</string>
+    <string name="search">Search</string>
+    <string name="register">Register</string>
+    <string name="covid">Covid Result</string>
+    <string name="confirm">Confirm</string>
+    <string name="areYouCovidPositive">Are You Covid Positive?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_location_permission">Permission</string>
+    <string name="text_location_permission">Allow C19 to access this device\'s Location</string>
+    <string name="ok">Ok</string>
+</resources>
